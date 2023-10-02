@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#edinting for test
 echo " enter the filename "
 read filename
 num=1
